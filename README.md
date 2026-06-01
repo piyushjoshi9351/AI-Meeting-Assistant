@@ -340,9 +340,9 @@ Piyush Joshi
 
 B.Tech Student | AI & Software Development Enthusiast
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/piyushjoshi9351/AI-Meeting-Assistant
 
-LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+LinkedIn: https://www.linkedin.com/in/piyush-joshi-18a152277/
 
 ---
 
